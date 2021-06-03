@@ -1,0 +1,1769 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Embleme of a vertuous woman</title>
+            <author>E. F.</author>
+         </titleStmt>
+         <extent>Approx. 70KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39693</idno><idno type="EEBO-CITATION">12379218</idno>
+  <idno type="VID">60671</idno>
+  <idno type="EEBO-PROQUEST">2240966878</idno>
+  
+            <idno type="STC">Wing F12</idno>
+            <idno type="STC">ESTC R5845</idno>
+            <idno type="OCLC">12379218</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A39693)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60671)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 867:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Embleme of a vertuous woman</title>
+                  <author>E. F.</author>
+               </titleStmt>
+               <extent>[4], 48 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1650?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Imperfect: t.p. lacking in filmed copy.</note>
+                  <note>Caption title.</note>
+                  <note>Epistle dedicatory signed: E.F.</note>
+                  <note>In verse.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Women --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="dedication">
+            <pb facs="tcp:60671:1"/>
+            <head>To the right worshipfull and truely vertuous Gentlewoman, <hi>Mistris</hi>
+            </head>
+            <head type="sub">
+               <hi>This humbly presented.</hi>
+            </head>
+            <opener>
+               <salute>Mistris,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am almost as great a stranger to you, as <hi>Abrahams</hi> servant was to faire <hi>Rebekah:</hi> yet hearing of your love and lenity to stran<g ref="char:EOLhyphen"/>gers, I have made bold for to Present, and humbly Dedicate this poore E<g ref="char:EOLhyphen"/>pitomy, and little Manuell of my few dayes labour to your worthy view; hoping you will accept and entertaine it as willingly, as courteous <hi>Joseph</hi> did his Brother <hi>Benjamin,</hi> or good <hi>Elijah</hi> the widow of <hi>Zarephaths</hi> lit<g ref="char:EOLhyphen"/>tle Cruse of Water: in doing which, I shall think my self as really happy as <hi>Hester</hi> was in the kind aspect, and gracious countenance of <hi>Ahasuerus.</hi> Now the God of <hi>Abraham,
+<pb facs="tcp:60671:2"/> Isaac</hi> and <hi>Jacob</hi> protect, preserve, and keepe you, and send those gifts, and heavenly graces you retaine, may be as faithfull to you as <hi>Jo<g ref="char:EOLhyphen"/>nathan</hi> to <hi>David,</hi> and keep you still as con<g ref="char:EOLhyphen"/>stant company, as <hi>Ruth</hi> did <hi>Naomi;</hi> and those that are not truely so indeed, may doe as <hi>Noah's</hi> Dove did, being once put forth, never returne againe. So prayes, and ever shall,</p>
+            <closer>
+               <signed>Your humblest Servant,<lb/>
+                  <hi>E. F.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="epigraphs">
+            <pb facs="tcp:60671:2"/>
+            <head>The Contents of the ensuing Poems.</head>
+            <q>
+               <p>NOw when Iesus was in <hi>Bathania</hi> in the house of <hi>Simon</hi> the Leaper, there came unto him a Wo<g ref="char:EOLhyphen"/>man, having an Alabaster Boxe of precious Oynt<g ref="char:EOLhyphen"/>ment, and powred it on his head, as he sate at meat.</p>
+               <bibl>Matth. 26. 6, 7.</bibl>
+            </q>
+            <q>
+               <p>Now when Iesus was risen early, the first day of the weeke, hee appeared first to <hi>Mary Magdalen.</hi>
+               </p>
+               <bibl>Mark 16. 9.</bibl>
+            </q>
+            <q>
+               <p>And behold, there was a woman which had a spi<g ref="char:EOLhyphen"/>rit of infirmity eighteene yeares, and was bowed toge<g ref="char:EOLhyphen"/>ther, and could in no wise lift up her selfe.</p>
+               <p>And when Iesus saw her, hee called her to him, and and said unto her; Woman, thou art loosed from thine infirmity.</p>
+               <p>And he laid his hands on her, and immediately shee was made straight, and glorified God.</p>
+               <bibl>Luke 13. 11, 12, 13.</bibl>
+            </q>
+            <q>
+               <pb facs="tcp:60671:3"/>
+               <p>Then tooke <hi>Mary</hi> a pound of Oyntment of Spike<g ref="char:EOLhyphen"/>nard, very costly, and annoynted the feet of Iesus, and wiped his feet with her haire, and the house was filled with the Odour of the Oyntment.</p>
+            </q>
+            <bibl>John 12. 3.</bibl>
+         </div>
+      </front>
+      <body>
+         <div type="poems_about_Biblical_women">
+            <pb n="1" facs="tcp:60671:3"/>
+            <div type="poem">
+               <head>The Embleme of a <hi>Ver<g ref="char:EOLhyphen"/>tuous Woman.</hi>
+               </head>
+               <l>
+                  <seg rend="decorInit">A</seg> Vertuous woman is so rare indeed,</l>
+               <l>For me to blaze her goodnesse will not need;</l>
+               <l>Nor yet by way of flatterie to set forth,</l>
+               <l>Because her owne demerits speaks her worth.</l>
+               <l>And yet because vertue doth often lye.</l>
+               <l>Rak'd up in Embers of Obscurity:</l>
+               <l>Some little Sparkles I will let you see,</l>
+               <l>Without a glasse of fain'd hypocrisie:</l>
+               <l>A vertuous woman, marke her when you will,</l>
+               <l>Loves to doe good, but hateth to doe ill:</l>
+               <l>A vertuous woman doth endeavour still</l>
+               <l>To frame her works unto her Makers will,</l>
+               <l>Taking delight to meditate and read</l>
+               <l>Of that which is Canonicall indeed.</l>
+               <l>A vertuous minded woman sweetly sings,</l>
+               <l>Although she doth not sit on Eagles wings,</l>
+               <l>Because she favours <hi>Peters</hi> admonition,</l>
+               <l>Ever to shun and flie from all ambition.</l>
+               <l>A vertuous woman loves not talking idle,</l>
+               <l>But keeps her mouth as with a bit or bridle:</l>
+               <pb n="2" facs="tcp:60671:4"/>
+               <l>But when shee sees occasion, wisely then,</l>
+               <l>Shee'll give a modest answer unto men.</l>
+               <l>A vertuous woman will not gad abroad.</l>
+               <l>But loves (with <hi>Mary)</hi> for to heare the Word;</l>
+               <l>And then sequestereth her selfe apart,</l>
+               <l>And layes up all those sayings in her heart.</l>
+               <l>A vertuous woman doth affect and love,</l>
+               <l>To fixe her cogitations fast above;</l>
+               <l>And alwayes is contented with her lot;</l>
+               <l>Using this world, as though she us'd it not.</l>
+               <l>A vertuous woman feares no suddaine danger,</l>
+               <l>But loves with <hi>Abraham</hi> to relieve the stranger:</l>
+               <l>And as she daily walkes about the Citie,</l>
+               <l>Shee's still a dropping of her Charity.</l>
+               <l>And though she be thus kinde to many one,</l>
+               <l>Her left hand knowes not what her right hath done.</l>
+               <l>A vertuous woman doth like vertuous <hi>Ruth,</hi>
+               </l>
+               <l>Delight to iterate and speak the truth.</l>
+               <l>No friend no foe, no hope of gaine or pelfe,</l>
+               <l>Can make her lye, although against her selfe.</l>
+               <l>A vertuous woman alwayes doth beside,</l>
+               <l>Hate most detestably the sinne of pride;</l>
+               <l>And had as willingly a serpent see,</l>
+               <l>As such a man, and yet loves decency:</l>
+               <l>A vertuous woman labours and doth toyle,</l>
+               <l>To have her Lampe provided still with oyle:</l>
+               <l>That when the Bride-grome comes, she may be found</l>
+               <l>Cloath'd with the wedding garment, and so crown'd</l>
+               <l>A vertuous woman rather had on earth,</l>
+               <l>Visit the house of mourning than of mirth;</l>
+               <pb n="3" facs="tcp:60671:4"/>
+               <l>And therefore little pleasure doth imploy,</l>
+               <l>And sowes in teares, that she may leap in joy.</l>
+               <l>A vertuous woman hates the envious much,</l>
+               <l>And cares not for the seeming love of such:</l>
+               <l>For well she knowes what ever they pretend,</l>
+               <l>They cannot be to any one a friend.</l>
+               <l>A vertuous woman doth not minde, nor care;</l>
+               <l>To be in her aparrell singular.</l>
+               <l>Nor never strives another to excell,</l>
+               <l>But when they doe what God commands them well.</l>
+               <l>A vertuous woman often will discourse</l>
+               <l>with one, which we call beggerly or worse:</l>
+               <l>And here's her reason, alas sayes she, we all</l>
+               <l>Sprung up with <hi>Adam,</hi> and like him we fall.</l>
+               <l>A vertuous minded woman, if she hath</l>
+               <l>Strayed a little from the Christian faith,</l>
+               <l>Straightway she doth repent her of her sin,</l>
+               <l>And so she is atton'd to God agen.</l>
+               <l>A vertuous woman, if she hath wronged bin,</l>
+               <l>Why yet she's ever angry without sin:</l>
+               <l>And though she might be even with her foes,</l>
+               <l>She rather will, like <hi>Samuel,</hi> pray for those.</l>
+               <l>A vertuous woman, though she doth but crall,</l>
+               <l>And cannot run as fast as did Saint <hi>Paul,</hi>
+               </l>
+               <l>Yet by the grace of God she mends her pace,</l>
+               <l>Untill shee sees a period of her race.</l>
+               <l>A vertuous woman doth not love you see</l>
+               <l>To sleep and slumber in securitie:</l>
+               <l>But with the Prophet <hi>David,</hi> loves to pray,</l>
+               <l>And magnifie her Saviour day by day.</l>
+               <pb n="4" facs="tcp:60671:5"/>
+               <l>A vertuous woman never will (because</l>
+               <l>The Thiefe was sav'd) neglect her Makers Lawes:</l>
+               <l>Nor will not make (as doth the worldly foole)</l>
+               <l>Every particular act a generall rule.</l>
+               <l>A vertuous woman never frets to see</l>
+               <l>The wicked flourish like a Cedar tree:</l>
+               <l>But thus she doth reply, if they doe wrong,</l>
+               <l>They nor their wealth can sure continue long.</l>
+               <l>A vertuous woman thinks it no disgrace</l>
+               <l>To have the lowest roome in any place:</l>
+               <l>And though she hath a noble pedegree,</l>
+               <l>She loves to sit hard by humility.</l>
+               <l>A vertuous woman chiefely doth procure,</l>
+               <l>To make her Calling and Election sure.</l>
+               <l>And having that, through Christ she boldly saith,</l>
+               <l>She is in heaven already by her faith.</l>
+               <l>A vertuous woman, be she ne're so poore;</l>
+               <l>It never makes her grieve a pin the more;</l>
+               <l>Because she knowes her kingdome is not here,</l>
+               <l>And therefore saies she, What need I to feare?</l>
+               <l>A vertuous woman ever loves to be,</l>
+               <l>Courteous to any in adversity.</l>
+               <l>And if she cannot helpe them, she'll doe this,</l>
+               <l>Let fall a teare at their sad sacrifice.</l>
+               <l>A vertuous Woman doth not greatly care,</l>
+               <l>To have her Ivory breasts be seene too bare:</l>
+               <l>But in a comely, meek, and modest way,</l>
+               <l>She vailes and hides them from the eye of day.</l>
+               <l>A vertuous woman thinks it a disgrace,</l>
+               <l>To paste her body, or to paint her face.</l>
+               <pb n="5" facs="tcp:60671:5"/>
+               <l>And in despight of such as <hi>Mary Frith,</hi>
+               </l>
+               <l>What nature sends she is contented with:</l>
+               <l>And to say truth, she'd rather lose her bloud,</l>
+               <l>Than be out-done in any thing that's good.</l>
+               <l>A vertuous woman joyes, that God hath sent</l>
+               <l>So happy, and so sweet a Parliament:</l>
+               <l>And hopes as hitherto he is their friend,</l>
+               <l>He will continue so unto the end.</l>
+               <l>A vertuous woman rageth not you see,</l>
+               <l>At my Lord Bishop, nor the Deputy:</l>
+               <l>But doth confesse even from her heart within:</l>
+               <l>The cause of all these tumults first was sin.</l>
+               <l>A vertuous minded woman will not cease,</l>
+               <l>To pray for this united, happy peace;</l>
+               <l>And having that she earnestly will sue,</l>
+               <l>To have the peace of a good Conscience too.</l>
+               <l>And thus you see what vertuous women are,</l>
+               <l>How they are qualified, and what cloaths they weare,</l>
+               <l>Now if you like the garment which is shewne,</l>
+               <l>Goe but to Christ, he'll helpe you put it on.</l>
+               <l>Which being done, no question you are free,</l>
+               <l>Both from the World, and Sathans tyrannie.</l>
+            </div>
+            <div type="poem">
+               <pb n="6" facs="tcp:60671:6"/>
+               <head>
+                  <hi>Eve</hi> deceived by a Serpent.</head>
+               <l>OUr Mother <hi>Eve,</hi> as questionlesse you know,</l>
+               <l>Was the first motive brought us first to woe;</l>
+               <l>For she by th' Serpents subtilty did eate</l>
+               <l>Of that whichi God did bid, forbidden, meate:</l>
+               <l>Yet her's a consolation sweetly said,</l>
+               <l>The Womans seed should bruise the Serpents head.</l>
+               <bibl>Gen. 3. 34 15.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Lamechs</hi> Wives harken to their Husbands.</head>
+               <l>But of <hi>Caines</hi> Wife, small mention we descry,</l>
+               <l>Therefore in silence all her actions lye;</l>
+               <l>But <hi>Lamechs</hi> wives, one being named <hi>Adah</hi>
+               </l>
+               <l>And the other as you read it, <hi>Zillah:</hi>
+               </l>
+               <l>Did hearken to their husband, which you see,</l>
+               <l>Was a true Symptome of humility.</l>
+               <bibl>Gen. 4. 19. 23.</bibl>
+            </div>
+            <div type="poem">
+               <head>The incestuous originall of <hi>Moab</hi> and <hi>Ammon.</hi>
+               </head>
+               <l>But in <hi>Lots</hi> daughters soon we may descry,</l>
+               <l>A world of impudent immodesty;</l>
+               <l>Making their father drunke, and after then,</l>
+               <l>To know him as they would do other men.</l>
+               <l>Lord give me grace thy statutes for to know,</l>
+               <l>And then my soule can never overthrow.</l>
+               <bibl>Gen. 19. 32. 33.</bibl>
+            </div>
+            <div type="poem">
+               <pb n="7" facs="tcp:60671:6"/>
+               <head>
+                  <hi>Lots</hi> Wife turnd into a piller of Salt.</head>
+               <l>Here in this woman you may plainely see,</l>
+               <l>A perfect signe of infidelity;</l>
+               <l>For though the Lord had promised to preserve her:</l>
+               <l>Who yet shee fear'd that promise would not serve her</l>
+               <l>O Lord my faith is weake and wants reliefe,</l>
+               <l>Yet I believe, Lord helpe my unbeliefe.</l>
+               <bibl>Gen 19. 26.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Sarah</hi> very respective to her Husband.</head>
+               <l>
+                  <hi>Sarah</hi> a good woman lived free from pride,</l>
+               <l>Though by her Husband shee was once deny'd;</l>
+               <l>For <hi>Abraham</hi> told <hi>Abimelech,</hi> his wife</l>
+               <l>Was but his sister fearing further strife:</l>
+               <l>But when the King, the verity did know,</l>
+               <l>With all celerity he let her goe.</l>
+               <bibl>Gen. 20, 14. 15.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Hagar</hi> though a Bond-woman, yet a good woman.</head>
+               <l>
+                  <hi>Hagar</hi> a good Woman: yes, and full of worth,</l>
+               <l>Though she and <hi>Ishmael,</hi> be casten forth;</l>
+               <l>For travelling with griefe along the way,</l>
+               <l>Towards the wildernesse of <hi>Beer-sheba.</hi>
+               </l>
+               <l>An Angell sent from God, to her appeares,</l>
+               <l>And her sad heart with heavenly musicke cheares.</l>
+               <bibl>Gen. 21. 17.</bibl>
+            </div>
+            <div type="poem">
+               <pb n="8" facs="tcp:60671:7"/>
+               <head>
+                  <hi>Rebeccah,</hi> a very kinde and loving woman.</head>
+               <l>
+                  <hi>Rebecca</hi> a good woman: one that would,</l>
+               <l>Be curteous unto all, and if shee could;</l>
+               <l>One that will fill her pitcher; and will make</l>
+               <l>A stranger drinke, if but for pitties sake:</l>
+               <l>One that will leave her parents, and with speed,</l>
+               <l>Will marrie <hi>Isaac</hi> as the Lord decreed.</l>
+               <bibl>Gen. 24. 18. 19.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Rachell</hi> and <hi>Leah</hi> two loving women.</head>
+               <l>
+                  <hi>Rachel</hi> and <hi>Leah</hi> two good women were,</l>
+               <l>Though <hi>Leah</hi> be tender cyde, and <hi>Rachel</hi> faire;</l>
+               <l>Yet <hi>Rachel</hi> thinkes it no disgrace to keepe:</l>
+               <l>With tender cave her fathers flocke of sheepe.</l>
+               <l>And to say truth, they freely both accord,</l>
+               <l>To keepe the blessed statutes of the Lord.</l>
+               <bibl>Gen. 29. 17. 18.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Dinah</hi> is rauished.</head>
+               <l>
+                  <hi>Dinah, Leahs</hi> daughter as you plainely see,</l>
+               <l>Is ravished by <hi>Shech<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ms</hi> subtilty;</l>
+               <l>Alas good gentlewoman it grieves me much,</l>
+               <l>That thou shouldst be recorded any such;</l>
+               <l>Because in holy writ I cannot finde;</l>
+               <l>That it was done according to thy minde.</l>
+               <bibl>Gen. 34. 1. 2.</bibl>
+            </div>
+            <div type="poem">
+               <pb n="9" facs="tcp:60671:7"/>
+               <head>
+                  <hi>Tamar</hi> deceiveth <hi>Iudah.</hi>
+               </head>
+               <l>And here is <hi>Tamar</hi> covered with a vaile,</l>
+               <l>That over <hi>Judah</hi> she may once prevaile;</l>
+               <l>For had she not beene covered, certaine true,</l>
+               <l>She would a blusht, any such thing to doe.</l>
+               <l>But howsoever: <hi>Iudah</hi> is be guil'd,</l>
+               <l>For <hi>Tamar,</hi> though mistaken, proves with childe.</l>
+               <bibl>Gen. 38. 15. 16. 17.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Potiphers</hi> Wife an ill disposed woman.</head>
+               <l>And here a wicked woman doth devise,</l>
+               <l>A chast, and vertuous <hi>Ioseph</hi> to surprise;</l>
+               <l>But when shee sees, she neither can attaine:</l>
+               <l>To worke her ends: nor yet his vertue staine;</l>
+               <l>She turnes her want on love to wicked hate,</l>
+               <l>By all which meanes he growes unfortunate.</l>
+               <bibl>Gen. 39, 7, 8.</bibl>
+            </div>
+            <div type="poem">
+               <head>Two kinde and charitable women.</head>
+               <l>But her<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s a paire of Midwives that excell,</l>
+               <l>In doing what doth please the Lord full well;</l>
+               <l>One of her names, and worthy it was <hi>Siphrah:</hi>
+               </l>
+               <l>And then the other next to her was <hi>Puah:</hi>
+               </l>
+               <l>Lord send us more such Midwives that delight,</l>
+               <l>Though Kings command, to doe nothing but right.</l>
+               <bibl>Exod. 1. 15. 16. 17.</bibl>
+            </div>
+            <div type="poem">
+               <pb n="10" facs="tcp:60671:8"/>
+               <head>
+                  <hi>Moses</hi> is borne, and in an Arke cast into the flags.</head>
+               <l>Loe here another her own childe forsakes,</l>
+               <l>But yet King <hi>Pharaohs</hi> daughter pitty takes</l>
+               <l>Upon the infant: and sends for some or other,</l>
+               <l>To nurse the child, which proves to be the mother.</l>
+               <l>Which very plaine and evident doth show,</l>
+               <l>Whom God will have preserved shall be so.</l>
+               <bibl>Exod. 2. 6. 7. 8.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Miriam</hi> envies <hi>Moses</hi> because hee married with an E<g ref="char:EOLhyphen"/>thiopian woman.</head>
+               <l>
+                  <hi>Miriam</hi> speakes 'gainst <hi>Moses,</hi> 'cause he can</l>
+               <l>Affect and love an Ethiopian;</l>
+               <l>But what is her reward for doing so:</l>
+               <l>Is she not turn'd a Leper white as show?</l>
+               <l>Yet <hi>Moses</hi> meekenesse to her did excell,</l>
+               <l>For he entreates the Lord to make her well.</l>
+               <bibl>Num. 12. 1. 13,</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Zimry</hi> and <hi>Cozby</hi> committing whoredome and idola<g ref="char:EOLhyphen"/>try are slaine by <hi>Phineas.</hi>
+               </head>
+               <l>And here doth wicked <hi>Zimry</hi> and <hi>Cozby,</hi>
+               </l>
+               <l>Commit base whoredome and Idolatry;</l>
+               <l>For which they both are slain by <hi>Phineas;</hi>
+               </l>
+               <l>And then the plague immediately doth cease.</l>
+               <pb n="11" facs="tcp:60671:8"/>
+               <l>Which plainely shewes ther's no way for to win,</l>
+               <l>Our Makers favour, but to cut off sinne.</l>
+               <bibl>Num. 25. 6. 7, 8.</bibl>
+            </div>
+            <div type="poem">
+               <head>The daughters of <hi>Zelophehad</hi> sue for an inheritance, and the Lord himselfe speakes for them.</head>
+               <l>Then came the daughters of <hi>Zelophehad,</hi>
+               </l>
+               <l>Which was the son of <hi>Kepher,</hi> and of <hi>Gilead;</hi>
+               </l>
+               <l>And standing before <hi>Moses</hi> and the rest:</l>
+               <l>Their mindes in ample manner were exprest.</l>
+               <l>Which being known, the Lord their suites advance,</l>
+               <l>And gives them ever more inheritance.</l>
+               <bibl>Num. 27 1, 2. 37. 8.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Moses</hi> angry with the Officers for saving bad women alive.</head>
+               <l>And after they had kil'd <hi>Rekem</hi> and <hi>Zur,</hi>
+               </l>
+               <l>
+                  <hi>Reba</hi> and <hi>Beor, Midian</hi> and <hi>Hur;</hi>
+               </l>
+               <l>
+                  <hi>Moses</hi> was angry 'cause they had not slaine:</l>
+               <l>Those wicked women that doe vertue staine.</l>
+               <l>Which plainly shewes that we may lawfull bee</l>
+               <l>Angry with those that worke iniquity.</l>
+               <bibl>Num. 31. 14. 15. 16.</bibl>
+            </div>
+            <div type="poem">
+               <head>The sexe is to be distinguished by apparell.</head>
+               <l>Women by no meanes must not weare in vaine,</l>
+               <l>That which doth properly to men pertaine;</l>
+               <pb n="12" facs="tcp:60671:9"/>
+               <l>Neither must any man himselfe invest;</l>
+               <l>With womens cloaths, for God doth such detest.</l>
+               <l>But both of them must lend her care and wit,</l>
+               <l>To weare what is most decent, meet, and fit.</l>
+               <bibl>Deut. 22. 5.</bibl>
+            </div>
+            <div type="poem">
+               <head>No man may stander his wife.</head>
+               <l>And here you see no man may give occasion,</l>
+               <l>Or scandalize his wife, for here is a perswasion;</l>
+               <l>That none through evill speeches as you see;</l>
+               <l>Abuse her name or her Virginity.</l>
+               <l>Yet many men there be I feare doe wrong</l>
+               <l>Their wives by deedes, as well as by their tongue.</l>
+               <bibl>Deut. 22. 13. 14, 15.</bibl>
+            </div>
+            <div type="poem">
+               <head>Adultery to be avoided.</head>
+               <l>And here 'tis said if any man be found,</l>
+               <l>Lying with a stranger, and doth wound</l>
+               <l>His reputation by it: then certainely,</l>
+               <l>The Lord sayes both the man and she must dye.</l>
+               <l>Lord, to thy servants still such graces give,</l>
+               <l>That I may dye to sinne, with thee to live.</l>
+               <bibl>Deut. 22. 22.</bibl>
+            </div>
+            <div type="poem">
+               <head>Gods love and lenity to new married women.</head>
+               <l>Here in this Chapter you may soone descry,</l>
+               <l>That God doth love your sexe intirely.</l>
+               <pb n="13" facs="tcp:60671:9"/>
+               <l>For no man for the first yeare may depart,</l>
+               <l>or goe to war from his new married heart.</l>
+               <l>Which evidently shewes the Lord above,</l>
+               <l>All vertuous women doth respect and love.</l>
+               <bibl>Deut. 24. 5.</bibl>
+            </div>
+            <div type="poem">
+               <head>Of an honest Harlot.</head>
+               <l>Loe here, the harlot <hi>Rahab</hi> nere denies,</l>
+               <l>For to conceal by faith, a paire of spies;</l>
+               <l>And that the King his anger may not waxe,</l>
+               <l>Shee hides and covers them with stalkes of flaxe.</l>
+               <l>For which, her faithfull and religious love,</l>
+               <l>Her sins are vail'd and hid from God above.</l>
+               <bibl>Iosh. 2. 4. 5, 6.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Othniell</hi> married to <hi>Achsah.</hi>
+               </head>
+               <l>Here <hi>Caleb</hi> makes a promise to bestow</l>
+               <l>His daughter upon him, can overthrow</l>
+               <l>And take proud <hi>Debir,</hi> which sodainely is done</l>
+               <l>By valiant <hi>Othniell, Kenaz</hi> eldest sonne.</l>
+               <l>Even so the Lord, a Kingdome will afford,</l>
+               <l>To him that fights the battell of the Lord.</l>
+               <bibl>Iudg. 1. 12 13, 14.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Deborah</hi> and <hi>Baruch</hi> deliver <hi>Israel</hi> from <hi>Iabin</hi> and <hi>Sisera.</hi>
+               </head>
+               <l>
+                  <hi>Deborah</hi> the Prophetesse you see doth dwell,</l>
+               <l>Vnder a palme-tree Iudge of <hi>Israel;</hi>
+               </l>
+               <pb n="14" facs="tcp:60671:10"/>
+               <l>One that doth take delight to laud and sing,</l>
+               <l>The praises of our high and heavenly King.</l>
+               <l>Then let us all endeavour seeke and strive,</l>
+               <l>To keepe her blessed memory alive.</l>
+               <bibl>Iudg. 4. 4. 5. 6. 7.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Iephthahs</hi> vow performed upon his owne daughter.</head>
+               <l>Here <hi>Iepthahs</hi> daughter is most ready now,</l>
+               <l>For to make good her fathers sodaine vow;</l>
+               <l>Even unto her death, yet gets you see,</l>
+               <l>Two months to sorrow her Virginity.</l>
+               <l>How ready then and forward should we be,</l>
+               <l>To make that good, we vow'd in baptisme.</l>
+               <bibl>Iudg. 11. 29. 34.</bibl>
+            </div>
+            <div type="poem">
+               <head>An Angell appeares to <hi>Manoahs</hi> wife and comforts her with glad tidings of a sonne.</head>
+               <l>An Angell comes to <hi>Manaohs</hi> wife forlorne,</l>
+               <l>And tells her, that a <hi>Sampson</hi> must he borne;</l>
+               <l>But withall tels her that she must refraine:</l>
+               <l>From wine, strong drinke, or any thing uncleane.</l>
+               <l>Even so if we intend with Christ to be,</l>
+               <l>We must refraine from all iniquity.</l>
+               <bibl>Iudg. 13. 3. 4. 7.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Sampson</hi> desireth a wife of the Philistines.</head>
+               <l>Loe here is <hi>Sampson</hi> sodainely surpris'd,</l>
+               <l>By a faire woman, that's uncircumcis'd;</l>
+               <pb n="15" facs="tcp:60671:10"/>
+               <l>And speakes unto his parents that they will be</l>
+               <l>A meanes to get her for him presently.</l>
+               <l>Even so will we, ofttimes to have our will,</l>
+               <l>Wed and contract our selves to what is ill.</l>
+               <bibl>Iudg. 14. 1, 2, 3.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Sampson</hi> being denyed his wife, he burnes the Phili<g ref="char:EOLhyphen"/>stines corne with Foxes and firebrands.</head>
+               <l>Now in this chapter, <hi>Sampson</hi> doth demand,</l>
+               <l>His best beloved at his fathers hand;</l>
+               <l>Being deny'd, even so it comes to passe,</l>
+               <l>A thousand slaine with the jaw-bone of an Asse.</l>
+               <l>Which makes apparant, if true love be crost,</l>
+               <l>Our lives and all we have may soone be lost.</l>
+               <bibl>Iudg. 15. 2. 3. 4.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Delilah</hi> corrupted by the Philistines, enticeth <hi>Samp<g ref="char:EOLhyphen"/>son,</hi> thrice deceives her, but at last she over<g ref="char:EOLhyphen"/>comes him.</head>
+               <l>Here <hi>Sampson</hi> comes to <hi>Gaza,</hi> and by chance,</l>
+               <l>Vpon a harlot casts a wanton glance;</l>
+               <l>Thrice he deceiveth <hi>Dalilah,</hi> but at length,</l>
+               <l>Shee overcomes him maugre all his strength.</l>
+               <l>Even so doth Sathan speake us faire untill,</l>
+               <l>we are betraid, and then he cryes all's well.</l>
+               <bibl>Iudg. 16. 2. 3. 17 18.</bibl>
+            </div>
+            <div type="poem">
+               <head>The levites wife forced to death.</head>
+               <l>Loe here a Levites wife is basely us'd,</l>
+               <l>And by the Benjamites to death abus'd;</l>
+               <pb n="16" facs="tcp:60671:11"/>
+               <l>For which her fact many a thousand fell,</l>
+               <l>Both of the Benjamites, and Israel,</l>
+               <l>Which shews, though God be silent, time will come,</l>
+               <l>Lust shall be surely punisht, Ecce signum.</l>
+               <bibl>Iudg. 19. 22. 23. 24.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Naomi</hi> returning homeward, <hi>Orpha</hi> leaves her, but <hi>Ruth</hi> with great constancy accompanyeth her.</head>
+               <l>After her husbands death will <hi>Naomi,</hi>
+               </l>
+               <l>To Bethelem-Iudah with celerity.</l>
+               <l>But <hi>Orpha</hi> quickly leaves her, and intruth,</l>
+               <l>None beares her company, but loving <hi>Ruth,</hi>
+               </l>
+               <l>Shewing of two friends, in our misery,</l>
+               <l>Tis well if one will beare us company.</l>
+               <bibl>Ruth 1. 14. 15. 16.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Ruth</hi> gleaneth in the fields of <hi>Boaz,</hi> that which shee got she carrieth to <hi>Naomi.</hi>
+               </head>
+               <l>And now it seems God being both their shields,</l>
+               <l>
+                  <hi>Ruth</hi> getteth leave to gleane in <hi>Boaz</hi> fields.</l>
+               <l>Now <hi>Boaz</hi> seeing of her, much affects her,</l>
+               <l>And with a word of lenity respects her.</l>
+               <l>Which is a speciall comfort to all those,</l>
+               <l>That unto vertue doe themselves dispose.</l>
+               <bibl>Ruth 2. 2. 3. 18.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Boaz</hi> buyes the inheritance and marrieth with <hi>Ruth.</hi>
+               </head>
+               <pb n="17" facs="tcp:60671:11"/>
+               <l> Here in this Chapter, so it comes to passe</l>
+               <l>That vertuous Ruth combin'd with curteous <hi>Boaz.</hi>
+               </l>
+               <l>By whom it pleaseth God she beareth <hi>Obed,</hi>
+               </l>
+               <l>The happy Grand father of a happy <hi>David.</hi>
+               </l>
+               <l>Please you to read the story, that will than</l>
+               <l>Give you more satisfaction then I can.</l>
+               <bibl>Ruth 4. 13. 14. 22.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Elkanah</hi> cherisheth <hi>Hannah</hi> though barren.</head>
+               <l>
+                  <hi>Elkanah</hi> hath two wives, <hi>Peninnah</hi> the one,</l>
+               <l>Doth beare him children, but the other none.</l>
+               <l>Which makes poore <hi>Hannah</hi> weepe, and grieve un<g ref="char:EOLhyphen"/>till,</l>
+               <l>Shee doth obtaine of God a <hi>Samuell.</hi>
+               </l>
+               <l>And having him great store of thankes shee gives,</l>
+               <l>And lends him God, so long as <hi>Samuell</hi> lives.</l>
+               <bibl>1 <hi>Samuel</hi> 1, 1. 2. 3, 20.</bibl>
+            </div>
+            <div type="poem">
+               <head>Maidens going forth to draw water telleth the King which way <hi>Samuel</hi> the Prophet went:</head>
+               <l>Loe here young pretty maidens tell King <hi>Saul,</hi>
+               </l>
+               <l>
+                  <hi>Samuel</hi> is gone unto the Festivall.</l>
+               <l>And just according to their words they speed,</l>
+               <l>For strait they finde him at the Feast indeed.</l>
+               <l>And thus you see that women sometimes may</l>
+               <l>Direct even Kings, into a happy way.</l>
+               <bibl>1 <hi>Sam.</hi> 9. 11. 12. 13.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Michall</hi> preserveth her husband from <hi>Sauls</hi> fury.</head>
+               <l>
+                  <hi>Michall</hi> doth save her godly husband <hi>David,</hi>
+               </l>
+               <l>By putting a false Image in his bed.</l>
+               <pb n="18" facs="tcp:60671:12"/>
+               <l>For when they came thinking to take him there,</l>
+               <l>What did they finde? a pillow of Goates haire.</l>
+               <l>And thus good women, as you plainely see,</l>
+               <l>Will still defend their husbands carefully.</l>
+               <bibl>1 <hi>Sam.</hi> 19. 12. 13. 16.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>David</hi> intending to destroy <hi>Nabal</hi> for his churlish<g ref="char:EOLhyphen"/>nesse, is pacified by <hi>Abigail.</hi>
+               </head>
+               <l>And here doth <hi>Abigail</hi> her selfe addresse,</l>
+               <l>To mitigate her husbands churlishnesse.</l>
+               <l>For by her wisedome, and those guifts shee sends</l>
+               <l>They for the present are made loving friends.</l>
+               <l>But God from <hi>Naball</hi> takes away his life,</l>
+               <l>And <hi>David Abigail</hi> to be his wife.</l>
+               <bibl>1 <hi>Sam.</hi> 25. 3. 18. 39.</bibl>
+            </div>
+            <div type="poem">
+               <head>A witch encouraged by <hi>Saul</hi> raiseth up Samuel</head>
+               <l>Loe here a witch by her inchanting spell,</l>
+               <l>Through <hi>Sauls</hi> request doth raise up <hi>Samuel.</hi>
+               </l>
+               <l>But when by him his fall he understands,</l>
+               <l>He doth lament, and wring his wretched hands.</l>
+               <l>Refusing any comfort, drinke or meate,</l>
+               <l>Yet at the last the woman makes him eate.</l>
+               <bibl>1 <hi>Sam.</hi> 18. 12. 13. 22.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Michal</hi> reproving <hi>David</hi> for hureligious joy, is child<g ref="char:EOLhyphen"/>lesse to her death.</head>
+               <l>And here doth envious <hi>Michael</hi> reprove,</l>
+               <l>Religious <hi>David</hi> for his godly love.</l>
+               <pb n="19" facs="tcp:60671:12"/>
+               <l>But what is her reward for this deprave?</l>
+               <l>Is she not childlesse to her very grave?</l>
+               <l>And therefore all good women warning take,</l>
+               <l>And ne're despise good mirth for <hi>Davids</hi> sake.</l>
+               <bibl>2 <hi>Sam.</hi> 6. 16. 23.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>David</hi> commits Adultery <hi>with</hi> Bathsheba.</head>
+               <l>Here in this Chapter, <hi>David</hi> as you see</l>
+               <l>Commits with <hi>Bathsheba</hi> Adulterie:</l>
+               <l>For being with her radiant beauty tane,</l>
+               <l>He causes good <hi>Vriah</hi> to be slaine</l>
+               <l>And then he marries her; yet sure the thing</l>
+               <l>Did not please God, although it lik't the King.</l>
+               <bibl>2 <hi>Sam.</hi> 2. 3. 6. 27.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Amnon</hi> ravisheth his sister <hi>Tamar.</hi>
+               </head>
+               <l>And in this Chapter <hi>Tamar's</hi> come to be</l>
+               <l>Ravish'd by <hi>Amnon's</hi> cunning subtlety:</l>
+               <l>But after the fact done, to hate her too,</l>
+               <l>Was sure the part of some inhumane Iew.</l>
+               <l>But God at last did stop his haughty breath,</l>
+               <l>And made him dance Sallengers round with death.</l>
+               <bibl>2 <hi>Sam.</hi> 13. 12, 13. 14. 28.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Joab</hi> suborning a widow of <hi>Tekoah</hi> by a parable in<g ref="char:EOLhyphen"/>clines the Kings heart to fetch home <hi>Absolon.</hi>
+               </head>
+               <l>Loe here's a woman, once of <hi>Tekoah,</hi>
+               </l>
+               <l>Tells that her sonne the other sonne did slay,</l>
+               <pb n="20" facs="tcp:60671:13"/>
+               <l> Which was not so, onely the King to win,</l>
+               <l>To get and fetch home <hi>Absolon</hi> agen:</l>
+               <l>Even so, some women love and do delight,</l>
+               <l>To tell wrong tales, to have their ends prove right.</l>
+               <bibl>2 Sam. 14. 2, 3, 4, 5.</bibl>
+               <l>Here <hi>Rispahs</hi> Clemency abroad is spread</l>
+               <l>For her kinde love in burying of the dead:</l>
+               <l>For lo, her lenity indeed extends</l>
+               <l>To those that are her foes, as well as friends:</l>
+               <l>For which her love, no doubt but she shall have</l>
+               <l>All her sins buried in our Saviours grave.</l>
+               <bibl>2 <hi>Sam.</hi> 21 10, 11,</bibl>
+               <l>And here's a Woman, by her wit and skill,</l>
+               <l>Preserves a City, <hi>Ioab</hi> thought to kill:</l>
+               <l>For by her judgement she doth thinke it fit,</l>
+               <l>Farre better <hi>Sheba's</hi> head should fall, than it.</l>
+               <l>So if <hi>Iehovah's</hi> love we meane to win,</l>
+               <l>We must, as she did, kill the cause of sinne.</l>
+               <bibl>2 <hi>Sam.</hi> 20. 16. 17.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Abishag</hi> cherisheth <hi>David</hi> in his old age.</head>
+               <l>And here is <hi>Abishag,</hi> a <hi>Shunamite,</hi>
+               </l>
+               <l>Brought to the King, his person to delight,</l>
+               <l>And to administer his age some heat,</l>
+               <l>She being yong, and every way compleat:</l>
+               <l>And so should women doe even all they can,</l>
+               <l>To cherish, not to perish any man.</l>
+               <bibl>1 <hi>Kings</hi> 1. 2, 3, 4.</bibl>
+            </div>
+            <div type="poem">
+               <pb n="21" facs="tcp:60671:13"/>
+               <head>
+                  <hi>Adoniah</hi> suing for <hi>Abishag</hi> is put to death.</head>
+               <l>And now is <hi>Adoniah</hi> directly gone</l>
+               <l>Unto the Mother of King <hi>Solomon,</hi>
+               </l>
+               <l>And doth request faire <hi>Abishag</hi> to wife,</l>
+               <l>Which shortly after takes away his life.</l>
+               <l>Even so, if we desire what is not sit,</l>
+               <l>God in due time, no doubt will punish it.</l>
+               <bibl>1 <hi>Kings</hi> 2. 13 14, 15.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Solomon</hi> marrieth Pharaohs daughter.</head>
+               <l>And in this Chapter you may plainly see</l>
+               <l>The King with <hi>Pharaoh</hi> makes affinitie,</l>
+               <l>In marrying with his daughter, and with speed,</l>
+               <l>Birngs her into the City of King <hi>David.</hi>
+               </l>
+               <l>Oh give us grace, that we like them may be</l>
+               <l>Wed and contracted ever Lord to thee.</l>
+               <bibl>1 <hi>Kings</hi> 3. 1, 2.</bibl>
+            </div>
+            <div type="poem">
+               <head>The Queen of <hi>Sheba</hi> admireth the wisedome of <hi>Solomon.</hi>
+               </head>
+               <l>Lo here, the Queen of <hi>Sheba</hi> now is come</l>
+               <l>To trie the Wisedome of King <hi>Solomon;</hi>
+               </l>
+               <l>Which when she heares, she sayes those happy be,</l>
+               <l>That may but stand before him constantly.</l>
+               <l>If it be so, how happy are those men.</l>
+               <l>That now doe raigne with <hi>Solomon</hi> in heaven.</l>
+               <bibl>1 <hi>Kings</hi> 10. 3, 4, 5, 6.</bibl>
+            </div>
+            <div type="poem">
+               <pb n="22" facs="tcp:60671:14"/>
+               <head>
+                  <hi>Solomons</hi> wives and Concubines in his old age draw him to Idolatry.</head>
+               <l>But here King <hi>Solomon</hi> doth much approve</l>
+               <l>Many strange women, and the <hi>Hittites</hi> love,</l>
+               <l>And having almost his last passage trod,</l>
+               <l>They strive to turne away his heart from God.</l>
+               <l>Then give us grace, O Lord, we may endeavour,</l>
+               <l>To be thy chaste and faithfull brides for ever.</l>
+               <bibl>1 <hi>Kings</hi> 11. 1. 2. 3. 4.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Abijah</hi> being sick, <hi>Jeroboam</hi> sends his wife disguised to the Prophet <hi>Ahijah</hi> at <hi>Shiloh.</hi>
+               </head>
+               <l>And here doth <hi>Ieroboam</hi> send his wife,</l>
+               <l>To save his sick sonne <hi>Abijah</hi> his life:</l>
+               <l>And though she be disguis'd, the Prophet he</l>
+               <l>Knowes both her Errand, and her presently:</l>
+               <l>And cause her husband goodnesse did refuse,</l>
+               <l>He sends her back againe with heavy newes.</l>
+               <bibl>1 <hi>Kings</hi> 14. 1, 2, 7, 8.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Elijah</hi> is sent to the widow of <hi>Zarephath.</hi>
+               </head>
+               <l>And here the Lord himselfe directed hath</l>
+               <l>
+                  <hi>Elijah</hi> for to goe to <hi>Zarephath:</hi>
+               </l>
+               <l>And here a while neare <hi>Zidon</hi> to remaine,</l>
+               <l>And that this widow, should his wants sustaine:</l>
+               <l>And so she doth for which her good deed done,</l>
+               <l>He raiseth up from death her pretty son.</l>
+               <bibl>1 <hi>Kings</hi> 17. 9. 10. 22. 23.</bibl>
+            </div>
+            <div type="poem">
+               <pb n="23" facs="tcp:60671:14"/>
+               <head>
+                  <hi>Elijah</hi> threatned by <hi>Jezabel</hi> fleeth to <hi>Beer-sheba.</hi>
+               </head>
+               <l>And here doth <hi>Jezabel</hi> that envious woman</l>
+               <l>Menace <hi>Elijah,</hi> that doth wrong to no man;</l>
+               <l>And causes him with speed to take his way</l>
+               <l>Towards the Wildernesse of <hi>Beer-sheba:</hi>
+               </l>
+               <l>But God for all her envy, and despight,</l>
+               <l>Relieves him, and preserves him day and night.</l>
+               <bibl>1 <hi>Kings</hi> 19. 2, 3, 4.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Elisha</hi> multiplyeth the Widdowes Oyle, and giveth a Son to the good Shunamite.</head>
+               <l>And in this Chapter two good Women bee,</l>
+               <l>The one a widdow is, you plainly see:</l>
+               <l>One that <hi>Elisha</hi> seeing something poore:</l>
+               <l>Doth multiply her oyle still more and more;</l>
+               <l>And one that by the Prophet is so blest,</l>
+               <l>She sells a part, and lives upon the rest.</l>
+               <l>The other is a godly <hi>Shunamite,</hi>
+               </l>
+               <l>One that doth take indeed a great delight,</l>
+               <l>To doe for good <hi>Elisha</hi> as she's able,</l>
+               <l>And gets him both a chamber, stooles, and Table:</l>
+               <l>For which, though age hath wrinckeled her skin;</l>
+               <l>She has a son, and dying rais'd agen.</l>
+               <bibl>2 <hi>Kings</hi> 4. 1, 2, 3, 4, 5.</bibl>
+            </div>
+            <div type="poem">
+               <pb n="24" facs="tcp:60671:15"/>
+               <head>
+                  <hi>Naaman,</hi> by the report of a Captive maid is sent to <hi>Elisha</hi> to be cured of his Leprosie, in <hi>Samaria.</hi>
+               </head>
+               <l>And here a Captive maiden sends away</l>
+               <l>Her Leprous Master unto <hi>Elisha;</hi>
+               </l>
+               <l>And by her meanes, it doth the Lord so please,</l>
+               <l>That he is cured of his fore disease.</l>
+               <l>Lasses take patterne. wish your Masters well,</l>
+               <l>As did this maiden here of <hi>Israel.</hi>
+               </l>
+               <bibl>2 <hi>Kings</hi> 5. 3, 4, 5.</bibl>
+            </div>
+            <div type="poem">
+               <head>The Famine in <hi>Samaria</hi> causes women to eate their owne Children.</head>
+               <l>Lo heres a woman that doth weep and wring,</l>
+               <l>And cryes a loud for justice to the King:</l>
+               <l>Saying, a woman said, if I would spill</l>
+               <l>My Son to day, to morrow she would kill</l>
+               <l>Her Son for meat, and now that I have done,</l>
+               <l>She will not keep her word, but hides her Son.</l>
+               <l>Which when he heard, with griefe he went away,</l>
+               <l>Saying <hi>Elisha's</hi> head should off that day.</l>
+               <l>But blessed be the Lord that sends us food</l>
+               <l>Without this stir, or yet our childrens blood.</l>
+               <bibl>2 <hi>Kings</hi> 6. 25, 26, 27.</bibl>
+            </div>
+            <div type="poem">
+               <head>Proud <hi>Jezabel</hi> is throwne downe out of a window, and eaten by Dogs.</head>
+               <l>And here this Chapter forces me to tell</l>
+               <l>Of a proud woman named <hi>Iezabel:</hi>
+               </l>
+               <pb n="25" facs="tcp:60671:15"/>
+               <l> One that <hi>Elisha</hi> menaceth, because</l>
+               <l>He wishes her to keep Gods holy Lawes:</l>
+               <l>But now 'tis come to passe she cannot threaten,</l>
+               <l>Because her envious flesh by Dogs is eaten.</l>
+               <bibl>2 <hi>Kings</hi> 9. 33. 34.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Iehoash</hi> is saved by <hi>Jehosheba</hi> his Ant, and <hi>Athaliah</hi> her selfe is killed.</head>
+               <l>And here <hi>Athaliah</hi> proveth so disloyall,</l>
+               <l>That she would kill even all the children royall:</l>
+               <l>But <hi>Iehosheba,</hi> the daughter of King <hi>Ioram</hi>
+               </l>
+               <l>Preserveth <hi>Ioash</hi> that good harmlesse lambe.</l>
+               <l>So <hi>Athaliahs</hi> envy proves in vaine,</l>
+               <l>For he is sav'd, and she her selfe is slaine.</l>
+               <bibl>2 <hi>Kings</hi> 11. 13. 16.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Huldah</hi> doth prophesie the destruction of <hi>Jerusalem.</hi> but respite thereof in <hi>Josiahs</hi> time.</head>
+               <l>And here doth <hi>Huldah,</hi> the good Prophetesse,</l>
+               <l>Resolve <hi>Iosiah</hi> of his happinesse:</l>
+               <l>And tells the messengers that surely hee</l>
+               <l>The ruine of the Land should never see,</l>
+               <l>Because he wept, and did endevour still,</l>
+               <l>To frame his works unto his Makers will.</l>
+               <bibl>2 <hi>Kings</hi> 22. 14, 15.</bibl>
+            </div>
+            <div type="poem">
+               <pb n="26" facs="tcp:60671:16"/>
+               <head>
+                  <hi>Maachah</hi> is put downe by her sonne for Idolatry.</head>
+               <l>Here <hi>Maacah</hi> the mother of the King,</l>
+               <l>Doth make a Grove, and many an Idoll bring</l>
+               <l>To worship and adore, but good King <hi>Asa</hi>
+               </l>
+               <l>Doth her suppresse and sweeps them cleane away:</l>
+               <l>Which shewes, though Parents often better be</l>
+               <l>Than are their children, here's the contrarie.</l>
+               <bibl>2 <hi>Chron.</hi> 15. 16. 17.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Vasthi</hi> being sent for, refuses to come.</head>
+               <l>Here <hi>Ahasuerus</hi> in his royall seat,</l>
+               <l>Sends for his wife, to make his joyes compleat:</l>
+               <l>But she his great command doth disobey:</l>
+               <l>Therefore advisedly she's put away:</l>
+               <l>Which tells all women, tis a hainous thing</l>
+               <l>To crosse a private husband; more a King.</l>
+               <bibl>Hest. 1. 10, 11, 12.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Hester</hi> best pleasing the King, is presently made Queene.</head>
+               <l>Now in her roome doth <hi>Hegai</hi> straight prefer</l>
+               <l>That noble and deserving woman <hi>Hester</hi>
+               </l>
+               <l>To be <hi>Ahasuerus</hi> wife, and straightway he</l>
+               <l>Thinks her deserve the Throne of Majestie,</l>
+               <l>And so she did indeed, I wish all may</l>
+               <l>Be as she was; a patterne to this day.</l>
+               <bibl>Hest. 2. 15, 16.</bibl>
+            </div>
+            <div type="poem">
+               <pb n="27" facs="tcp:60671:16"/>
+               <head>By the Councell of <hi>Zeresh, Hamans</hi> wife, a paire of Gallowes is builded for <hi>Mordecai.</hi>
+               </head>
+               <l>Here <hi>Zeresh, Hamans</hi> wife doth counsell lay,</l>
+               <l>To build a Gallowes for good <hi>Mordecai,</hi>
+               </l>
+               <l>And farther to expresse her tyranny.</l>
+               <l>Shee'll have them reared fifty Cubits high.</l>
+               <l>But <hi>Haman</hi> aimes, at honour, gold, and pelfe,</l>
+               <l>Therefore alas he's hang'd thereon himselfe.</l>
+               <bibl>Hest. 5. 13. 14.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Job</hi> reproves his wife for moving him to curse God.</head>
+               <l>And here <hi>Iobs</hi> wife doth move him wickedly,</l>
+               <l>Seeing his sorrow to curse God, and dye.</l>
+               <l>I am perswaded, if this woman had</l>
+               <l>But halfe his paine, it would have made her mad,</l>
+               <l>For she that murmurs at anothers paine,</l>
+               <l>Felt by her selfe will ban and curse againe.</l>
+               <bibl>Iob 2. 9, 10.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Solomon</hi> sheweth the mischiefe of whore<g ref="char:EOLhyphen"/>dome and riot: with a gentle de<g ref="char:EOLhyphen"/>hortation therefrom.</head>
+               <l>All you that give your selves to womens wayes,</l>
+               <l>Heare what the King of wisedome to you sayes,</l>
+               <l>A whore sayes he, is a narrow pit,</l>
+               <l>And he whom God detests shall fall in it:</l>
+               <pb facs="tcp:60671:17"/>
+               <l> And that Adultery is a deed so foule,</l>
+               <l>That he which acts it doth destroy his soule.</l>
+               <bibl>Prov. 6, 24, 25. 32.</bibl>
+               <l>Therefore with <hi>Solomon</hi> let me thee advise,</l>
+               <l>Not to be taken by her twinkling eyes:</l>
+               <l>For by a whore man suddainly is brought,</l>
+               <l>To little bread, and any thing that's nought:</l>
+               <l>Besides, Serpents never stings so much amisse,</l>
+               <l>As when they bite a man, and never hisse.</l>
+               <bibl>Prov. 5. 3, 4, 5.</bibl>
+               <l>Yea though her lips like honey Combs doe drop,</l>
+               <l>And seeme unto thee like a timely crop:</l>
+               <l>Nay, though her mouth be smoother than the oyle,</l>
+               <l>And thou art ravished with her for a while:</l>
+               <l>You heare the wise man for a truth doth tell,</l>
+               <l>Her feet goe downe to death, her steps to hell.</l>
+               <bibl>Prov. 7. 9, 10, 11, 12.</bibl>
+            </div>
+            <div type="poem">
+               <head>The praise and properties of a good wife.</head>
+               <l>Lo here you see, it is not a thing common,</l>
+               <l>To finde a loving chaste and vertuous woman,</l>
+               <l>Because her worth, as you doe plainly see,</l>
+               <l>Excells the purest gold, or finest Rubie.</l>
+               <l>A right good woman doth endevour still</l>
+               <l>For to doe good, and trembles to doe ill.</l>
+               <pb n="29" facs="tcp:60671:17"/>
+               <l> She seeketh Wooll and Flax, and hath a care,</l>
+               <l>Like Merchants ships to fetch her food from far,</l>
+               <l>Her hands are at the Spindle, and tis true,</l>
+               <l>Shee gives her Almes unto the needy too:</l>
+               <l>She envies none, but scornes such foolish blindnesse,</l>
+               <l>And opens still her mouth with love and kindnesse.</l>
+               <l>Shee makes her coverings of fine Tapestry,</l>
+               <l>Her cloathing must of silke and purple be:</l>
+               <l>There's many daughters vertuously have done,</l>
+               <l>But thou excel'st them all; al, every one.</l>
+               <l>Favour's deceitfull, and beauty it decayes,</l>
+               <l>But she that feares the Lord is worthy prayse.</l>
+               <bibl>Prov. 31. 10, 11, 12, 13, 14, &amp;.</bibl>
+            </div>
+            <div type="poem">
+               <head>Gods judgements feared for the pride of Women.</head>
+               <l>And here 'tis said; the Lord will sure deride,</l>
+               <l>Those women that addict themselves to pride:</l>
+               <l>Such as with Bracelets very hardly know,</l>
+               <l>How for to tread, but mince it as they goe:</l>
+               <l>Their Mantles, Jewells, and their crisping pins,</l>
+               <l>The Lord will spoyle, by reason of their sins.</l>
+               <bibl>Isaiah 3. 16, 17, 18, 19. 20.</bibl>
+            </div>
+            <div type="poem">
+               <head>Gods love to sinners.</head>
+               <l>Here, if a man doe put away his wife,</l>
+               <l>And she goe from him, fearing farther strife,</l>
+               <pb n="30" facs="tcp:60671:18"/>
+               <l> And she soon after cleave unto another:</l>
+               <l>Shall this same man returne againe unto her:</l>
+               <l>No by no meanes, yet thou hast wrong'd my love;</l>
+               <l>Yet turne againe to me, sayes God above.</l>
+               <bibl>Jerem. 3. 1.</bibl>
+            </div>
+            <div type="poem">
+               <head>The mighty force and efficacy of women.</head>
+               <l>Here in this Chapter you apparent see,</l>
+               <l>That women very strong, and mighty be:</l>
+               <l>For though man be her head, why yet I wist,</l>
+               <l>She'll rule her head and body as she list:</l>
+               <l>And therefore never strive for to offend her,</l>
+               <l>But if she be not good'pray God to mend her.</l>
+               <bibl>1 <hi>Esras</hi> 14. 15. 16, 17. 18.</bibl>
+            </div>
+            <div type="poem">
+               <head>A woman lamenting in the field for the death of her Son.</head>
+               <l>Lo, here's a woman weeping for her Son,</l>
+               <l>Because his dayes by Gods decree are done;</l>
+               <l>For comming to his chamber as a Bride:</l>
+               <l>The story sayes, he straight fell downe and dy'd.</l>
+               <l>And this same makes the Proverb good you see,</l>
+               <l>Nothing so constant as inconstancy.</l>
+               <bibl>2 <hi>Esdras</hi> 10. 1, 2.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Tobit</hi> and his wife fall out.</head>
+               <l>Here <hi>Tobit</hi> tells us, and no doubt 'tis true,</l>
+               <l>That his wise labours, and takes worke to doe:</l>
+               <pb n="31" facs="tcp:60671:18"/>
+               <l> And yet for all that she this office did,</l>
+               <l>
+                  <hi>Tobit</hi> and she fall out about a Kid:</l>
+               <l>Which plainly shewes, so wretched are our crimes,</l>
+               <l>There's few or none but will fall forth some times.</l>
+               <bibl>Tobit 2. 12. 13. 14.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Sarah</hi> reproached by her fathers maid.</head>
+               <l>Here <hi>Sarah</hi> is derided by each one,</l>
+               <l>Because she had seven husbands, yet nere knowne:</l>
+               <l>Nor laine with any; therefore once she thought</l>
+               <l>To have strangled her selfe, and to have brought</l>
+               <l>Her name in question: but indeed we finde,</l>
+               <l>God of his mercy did convert her mind.</l>
+               <bibl>Tobit 3. 8, 9, 10.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Judith</hi> cutteth off <hi>Holofernes</hi> his head while that hee sleepeth.</head>
+               <l>Here <hi>Iudith</hi> is alone with <hi>Holofernes,</hi>
+               </l>
+               <l>And prayes to God to send her good successe:</l>
+               <l>And as by faith she prayes, even so she speeds;</l>
+               <l>For <hi>Holofernes</hi> loved, lies sick, and bleeds:</l>
+               <l>Well done brave <hi>Iudith,</hi> blessing on thy heart;</l>
+               <l>Better one dye, than a whole kindome smart.</l>
+               <bibl>Iud. 13. 6, 7, 8.</bibl>
+            </div>
+            <div type="poem">
+               <pb n="32" facs="tcp:60671:19"/>
+               <head>We are to avoyd jealousie.</head>
+               <l>Here we are taught a Lesson for our life,</l>
+               <l>Not to be jealous, nor mistrust our Wife:</l>
+               <l>Nor yet to gaze upon a woman faire:</l>
+               <l>Because 'tis dangerous, and proves a snare.</l>
+               <l>But when thou dost her Radiant beauty see,</l>
+               <l>Thinke with thy selfe she's earth as well as thee.</l>
+               <bibl>Ecclus. 9. 1, 2, 3, 4, 5.</bibl>
+            </div>
+            <div type="poem">
+               <head>Two Iudges hide themselves in the garden of <hi>Susanna,</hi> to have their pleasure of her.</head>
+               <l>Here is a chaste <hi>Susanna</hi> much abus'd,</l>
+               <l>And by a couple of false Knaves accus'd:</l>
+               <l>And yet forsooth, these two her cause must trie,</l>
+               <l>And strait condemne her for adulterie.</l>
+               <l>But God that giveth judgement just and right,</l>
+               <l>Crosses their projects, and destroyes them quite.</l>
+               <bibl>Susanna 1. 7. 8. 44. 45.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Ptolomeus</hi> repents that he gave his daughter to <hi>Alexander.</hi>
+               </head>
+               <l>
+                  <hi>Ptolomeus,</hi> that same great Commander,</l>
+               <l>Hath given his daughter unto <hi>Alexander:</hi>
+               </l>
+               <l>But now repents him that he did bestow</l>
+               <l>His child on him that proves to be his foe:</l>
+               <pb n="33" facs="tcp:60671:19"/>
+               <l> Even so may we repine we ever gave</l>
+               <l>Our service unto him that is a slave.</l>
+               <bibl>1 <hi>Mac.</hi> 11. 9, 10.</bibl>
+            </div>
+            <div type="poem">
+               <head>The constancy and cruell death of seven brethren and their mother in one day.</head>
+               <l>Here is a woman, whose deserts farre wring,</l>
+               <l>In slighting base <hi>Antiochus</hi> the King:</l>
+               <l>For though before her face her sons doe dye,</l>
+               <l>She doth rejoyce, and scorne his tyranny:</l>
+               <l>O listen women, let not death affright yee,</l>
+               <l>And then, though Kings do wrong you, God will right yee.</l>
+               <bibl>2 <hi>Mac.</hi> 7. 1, 2, 3, &amp;c.</bibl>
+            </div>
+            <div type="poem">
+               <head>An Angell satisfieth <hi>Joseph</hi> concer<g ref="char:EOLhyphen"/>ning his wife.</head>
+               <l>Here <hi>Mary,</hi> that did love her husband most,</l>
+               <l>Is found with child even of the holy Ghost:</l>
+               <l>But <hi>Joseph</hi> knowing nothing how't should be,</l>
+               <l>Thought to have put her away privily:</l>
+               <l>Untill an Angel to him doth appeare,</l>
+               <l>And satisfieth his misdeeming feare.</l>
+               <bibl>Matth. 1. 18, 19, 20.</bibl>
+            </div>
+            <div type="poem">
+               <head>Ioseph flyeth into <hi>Aegypt,</hi> with Iesus and his mother.</head>
+               <l>Here in this Chapter you may soone descry,</l>
+               <l>That <hi>Ioseph</hi> and his wife are faine to flie</l>
+               <pb n="34" facs="tcp:60671:20"/>
+               <l> With speed to <hi>Aegypt;</hi> nay you see our God</l>
+               <l>Is willing for to flye from haughty <hi>Herod:</hi>
+               </l>
+               <l>But 'twas for our sakes. Lord grant that we</l>
+               <l>May flie from sin, as fast and willingly.</l>
+               <bibl>Matth. 2. 13, 14.</bibl>
+            </div>
+            <div type="poem">
+               <head>Christ healeth <hi>Peters</hi> Mother in law of a Fever.</head>
+               <l>Here <hi>Peters</hi> Mother in law is very ill</l>
+               <l>And yer our Saviour doth affect her still:</l>
+               <l>For out of Clemency he will not leave her,</l>
+               <l>Till she is cured of her burning Fever;</l>
+               <l>Which plainly shewes, although the world deceive us,</l>
+               <l>God in adversity will never leave us.</l>
+               <bibl>Matth 8. 14, 15.</bibl>
+            </div>
+            <div type="poem">
+               <head>Christ cureth the bloudy issue, and raiseth from death <hi>Jairus</hi> daughter.</head>
+               <l>And here's a woman as it plaine appeares,</l>
+               <l>Is troubl'd with an issue of bloud twelve yeares,</l>
+               <l>And touching but the hem of Iesus garment,</l>
+               <l>She was made perfect whole incontinent:</l>
+               <l>But it was done by faith: oh grant that we,</l>
+               <l>May ever pray for this fidelity.</l>
+               <l>And likewise <hi>Jairus</hi> daughter, God be prais'd,</l>
+               <l>From death to life, you see is quickly rais'd:</l>
+               <pb n="35" facs="tcp:60671:20"/>
+               <l> For though she did a season <hi>Mortuus</hi> lye,</l>
+               <l>You see she did not of that sicknesse dye</l>
+               <l>Lord raise our soules above a common Spheare.</l>
+               <l>That we thy holy name may laud and feare.</l>
+               <bibl>Mat. 9. 20, 21, 25.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Herodias</hi> gives her daughter bad instructions.</head>
+               <l>And in this Chapter loe it comes to passe,</l>
+               <l>The envious daughter of <hi>Herodias.</hi>
+               </l>
+               <l>With wanton dancing pleases <hi>Herod</hi> so,</l>
+               <l>That he upon her, Kingdomes will bestow.</l>
+               <l>But being of her mother taught before,</l>
+               <l>She askes <hi>Iohn-Baptists</hi> head, and craves no more</l>
+               <bibl>Mat. 14. 6, 7, 8.</bibl>
+            </div>
+            <div type="poem">
+               <head>Christ heales the daughter of the woman of <hi>Canaan.</hi>
+               </head>
+               <l>And here's another woman comes from <hi>Tyre.</hi>
+               </l>
+               <l>And prayeth Christ to grant her, her desire.</l>
+               <l>And tells him that her daughter is perplext,</l>
+               <l>And with a devill grievously was vext.</l>
+               <l>But shee by faith doth please the Lord so well,</l>
+               <l>He thinkes her worthy of a Chronicle.</l>
+               <bibl>Mat. 15. 22, 23, 24.</bibl>
+            </div>
+            <div type="poem">
+               <head>Christ foretelleth his passion by answering the Mother of <hi>Zebedees</hi> children.</head>
+               <l>And heere's another doth her children bring,</l>
+               <l>And askes of Christ a most unseemely thing.</l>
+               <pb n="36" facs="tcp:60671:21"/>
+               <l> For she desires that her sons may sit,</l>
+               <l>One at his right hand, the other at his left,</l>
+               <l>But Iesus told her that she did not know,</l>
+               <l>What she demanded, therefore let her goe.</l>
+               <bibl>Mat. 20. 20. 21. 22.</bibl>
+            </div>
+            <div type="poem">
+               <head>The parable of the ten Ʋirgins.</head>
+               <l>Here in this Chapter you may plainely see,</l>
+               <l>Five foolish Virgins and five wiser be.</l>
+               <l>Because within their lampes, their oyle did flame,</l>
+               <l>And burned cleare, when as the Bridegrome came.</l>
+               <l>Good God, anoint us with the oyle of grace,</l>
+               <l>That wee in heaven may have a happy place.</l>
+               <bibl>Mat. 25. 2, 3, 4.</bibl>
+            </div>
+            <div type="poem">
+               <head>A woman annointeth our Saviours head.</head>
+               <l>Here comes a vertuous woman with intent,</l>
+               <l>For to bestow a boxe of precious ointment.</l>
+               <l>Upon our Saviour, and comming to his feate,</l>
+               <l>She powr'd it on him as he sate at meate.</l>
+               <l>Lord give us grace, that we may ever be,</l>
+               <l>Powring forth prayers to thy Majesty.</l>
+               <bibl>Mat. 26. 7. 8 9.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Pilate</hi> is admonished by his wife.</head>
+               <l>
+                  <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Here <hi>Pilates</hi> wife, her husband doth desire,</l>
+               <l>To meddle not with Christ, nor once aspire</l>
+               <pb n="37" facs="tcp:60671:21"/>
+               <l> To such an ignorant and foolish sinne,</l>
+               <l>Cause in her dreames, she much was troubled with him.</l>
+               <l>Then daughters of faire <hi>Sion,</hi> still pursue</l>
+               <l>That which is good, with sin have nought to doe.</l>
+               <bibl>Matthew 27. 19.</bibl>
+            </div>
+            <div type="poem">
+               <head>Christs resurrection is declared by an Angell to the women.</head>
+               <l>Here <hi>Mary Magdalen,</hi> and the other <hi>Mary,</hi>
+               </l>
+               <l>Christs resurrection first doth testifie,</l>
+               <l>For loe an Angel to them doth declare,</l>
+               <l>That he was surely risen and not here.</l>
+               <l>O let us ever to expresse our love,</l>
+               <l>Rise early for to seeke the Lord above.</l>
+               <bibl>Mat. 28. 1. 5, 6.</bibl>
+            </div>
+            <div type="poem">
+               <head>A poore widow commended for her two mites above al.</head>
+               <l>Here is a widow that is much commended,</l>
+               <l>Because her charity hath far transcended</l>
+               <l>The love of very many, and therefore</l>
+               <l>Her mite is more accepted then a store.</l>
+               <l>O let my faith although it little be,</l>
+               <l>Be found a talent in thy treasury.</l>
+               <bibl>Mark. 12. 41, 42.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Peter</hi> made knowne by a maiden.</head>
+               <l>Here is a maiden telleth <hi>Peter</hi> plaine,</l>
+               <l>That he belong'd unto our Saviours traine.</l>
+               <pb n="20" facs="tcp:60671:22"/>
+               <l> But still the more the maiden Justifies it,</l>
+               <l>Why still the more couragious he denies it.</l>
+               <l>But then at last, the Cock began to crow,</l>
+               <l>And then with teares he did confesse 'twas so.</l>
+               <bibl>Marke 14. 66, 67, 7. 2</bibl>
+            </div>
+            <div type="poem">
+               <head>Christ raiseth from death the widowes son at <hi>Naim.</hi>
+               </head>
+               <l>And now our Saviour Christ is come to <hi>Naim</hi>
+               </l>
+               <l>And many of his kinde Disciples with him.</l>
+               <l>And there he findes a widow weeping sore,</l>
+               <l>For her dead sonne because shee had no more.</l>
+               <l>But presently he stills her watry eyes,</l>
+               <l>In saying only to her sonne, arise,</l>
+               <bibl>Luke 7 11, 12, 13, 14.</bibl>
+            </div>
+            <div type="poem">
+               <head>Women give of their substance to our Saviour.</head>
+               <l>And heer's a sort of women ministers,</l>
+               <l>Part of their substance to our blessed Saviour.</l>
+               <l>Mong'st whom, was <hi>Mary Magdalen</hi> and <hi>Iohannah,</hi>
+               </l>
+               <l>With that same vertuous woman call'd <hi>Susannah.</hi>
+               </l>
+               <l>Lord with thy graces so my soule inflame,</l>
+               <l>That I may still give prayses to thy name.</l>
+               <bibl>Luke 8. 2, 3, 4.</bibl>
+            </div>
+            <div type="poem">
+               <head>Christ reprehendeth <hi>Martha,</hi> and commendeth <hi>Mary</hi> her sister.</head>
+               <l>Here in this Chapter <hi>Mary</hi> is commended,</l>
+               <l>And <hi>Martha</hi> being faulty reprehended.</l>
+               <pb n="25" facs="tcp:60671:22"/>
+               <l> For <hi>Martha</hi> in the worldlings path hath trod.</l>
+               <l>Whil'st <hi>Mary</hi> hearkens to the word of God,</l>
+               <l>Lord give me such a spirit, such a heart,</l>
+               <l>To chuse with <hi>Mary</hi> her, the better part.</l>
+               <bibl>Luke 10. 40, 41, 42.</bibl>
+            </div>
+            <div type="poem">
+               <head>Christ bealeth the crooked woman.</head>
+               <l>And in this Chapter you may plainely see,</l>
+               <l>A woman subject to infirmitie,</l>
+               <l>And though that she was crooked eighteene yeares</l>
+               <l>By Christ shee's cured as it plaine appeares.</l>
+               <l>Grant Lord that by thy Word and admonitions,</l>
+               <l>I may be cured of my crookt conditions.</l>
+               <bibl>Luke 13. 11, 12, 13.</bibl>
+            </div>
+            <div type="poem">
+               <head>Of the importunate widow.</head>
+               <l>And heers a widow as you plainely see,</l>
+               <l>Desires revenge upon her enemy.</l>
+               <l>But see the judge doth slight her wisht request,</l>
+               <l>Yet till tis granted, sheel not let him rest.</l>
+               <l>Lord grant that I may be important still,</l>
+               <l>To frame my words according to thy will.</l>
+               <bibl>Luke 18, 2, 3, 4.</bibl>
+            </div>
+            <div type="poem">
+               <head>Christ his words to the weeping woman.</head>
+               <l>And heere is women of some kinde behaviour,</l>
+               <l>That weepes and sorrowes for our blessed Saviour.</l>
+               <l>But he doth tell them that tis best for them,</l>
+               <l>To sorrow for themselves, and not for him.</l>
+               <pb n="40" facs="tcp:60671:23"/>
+               <l> Lord take from me all teares, all pensivenesse.</l>
+               <l>But when I do thy holy lawes transgresse.</l>
+               <bibl>Luke 23. 27, 28.</bibl>
+            </div>
+            <div type="poem">
+               <head>Christ turnes water into wine at a marriage.</head>
+               <l>And in this Chapter you may plainely see,</l>
+               <l>A marriage solemniz'd in <hi>Galilee.</hi>
+               </l>
+               <l>And here did Christ, all goodnesse and divine,</l>
+               <l>Turne at this marriage, water into wine.</l>
+               <l>And we doe for his love, his lawes transgresse,</l>
+               <l>And turne his blessings into wantonnesse.</l>
+               <bibl>Iohn 2. 6, 8, 9.</bibl>
+            </div>
+            <div type="poem">
+               <head>Christ talketh with a woman of <hi>Samaria,</hi> &amp; revealeth himselfe unto her.</head>
+               <l>And now our Saviour Christ hath left <hi>Iudea,</hi>
+               </l>
+               <l>And talketh with a woman of <hi>Samaria.</hi>
+               </l>
+               <l>And out of lenity he thinkes no scorne,</l>
+               <l>To tell her all she did since she was borne.</l>
+               <l>And surely Lord thou knowst what I have done,</l>
+               <l>Since first I came out of my mothers wombe.</l>
+               <bibl>Iohn 4. 7, 8, 9.</bibl>
+            </div>
+            <div type="poem">
+               <head>Christ delivereth the woman taken in Adultery.</head>
+               <l>Here is a woman brought before our Saviour,</l>
+               <l>For her corrupt and misdemean'd behaviour.</l>
+               <l>But Christ for to expresse his clemencie,</l>
+               <l>Reproveth them, and sets this woman free.</l>
+               <pb n="41" facs="tcp:60671:23"/>
+               <l> Which shewes that God is still the first beginner,</l>
+               <l>To save each faithfull and repentant sinner.</l>
+               <bibl>Iohn 8. 3. 4. 11.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Mary</hi> annoints our Saviours feete.</head>
+               <l>Here <hi>Mary</hi> with a pound of spiknard sweet,</l>
+               <l>Out of her love, annoints our Saviours feete.</l>
+               <l>But envious <hi>Judas</hi> vexed is therefore,</l>
+               <l>Because it was not sold and given the poore.</l>
+               <l>Even so the Devill mans profest betrayer,</l>
+               <l>Is next when we please God by faith or prayer.</l>
+               <bibl>Iohn 12. 2, 3, 4.</bibl>
+            </div>
+            <div type="poem">
+               <head>Christ commendeth his mother to <hi>Iohn.</hi>
+               </head>
+               <l>And here our Saviour ready is to dye,</l>
+               <l>Whilst that his mother is a stander by.</l>
+               <l>The Iewes are blam'd, for being so hard hearted,</l>
+               <l>And yet the sinne betwixt us may be parted,</l>
+               <l>For they were but as instruments to doe,</l>
+               <l>What we through <hi>Adam</hi> did inforce them too.</l>
+               <bibl>Iohn 19. 26, 27.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Ananias</hi> and <hi>Saphira</hi> his wife at the rebuke of <hi>Peter</hi> fall downe dead.</head>
+               <l>Here <hi>Ananias</hi> and <hi>Saphira</hi> his wife,</l>
+               <l>Sell's a possession, but Sathan being rife,</l>
+               <l>They doe not do it with a faithfulll heart,</l>
+               <l>But from good <hi>Peter</hi> doe conceale a part.</l>
+               <pb n="24" facs="tcp:60671:24"/>
+               <l> For which their misbeliefe and forged lye,</l>
+               <l>They both like miserable caitives dye.</l>
+               <bibl>Acts 5. 5, 9, 10.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Peter</hi> restoreth <hi>Tabitha</hi> to life.</head>
+               <l>Here <hi>Dorcas, alias Tabitha,</hi> doth frame,</l>
+               <l>Her selfe to pious deeds, and by the same</l>
+               <l>She gets Gods love, and yet you see she dyes,</l>
+               <l>Till <hi>Peter</hi> sayes. faire <hi>Tabitha</hi> arise.</l>
+               <l>I must confesse, O Lord, I am dead in sinne,</l>
+               <l>Yet hope by faith in Christ, to rise againe.</l>
+               <bibl>Acts 9. 39, 40.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Paul</hi> converteth <hi>Lydia.</hi>
+               </head>
+               <l>Here in this Chapter, <hi>Paul</hi> converteth <hi>Lydia,</hi>
+               </l>
+               <l>A seller of purple in <hi>
+                     <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hyat<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a.</hi>
+               </l>
+               <l>For being once baptiz'd she did constraine,</l>
+               <l>
+                  <hi>Paul,</hi> and the rest, with her for to remaine.</l>
+               <l>So being once ingrafted Lord to thee,</l>
+               <l>We still desire thy word, or company.</l>
+               <bibl>Acts 16. 13, 14.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Philips</hi> daughters; Prophetesses.</head>
+               <l>And now St. <hi>Paul</hi> hath undertooke his way,</l>
+               <l>Towards <hi>Hierusalem,</hi> or <hi>Caesaria.</hi>
+               </l>
+               <l>And comming into <hi>Philips</hi> house, they see,</l>
+               <l>Foure of his daughters that did prophesie.</l>
+               <pb n="43" facs="tcp:60671:24"/>
+               <l> Lord send us more such virgins that will strive,</l>
+               <l>To keepe their happy memory alive.</l>
+               <bibl>Acts 21. 8. 9.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Paul</hi> preacheth Christ to the governour and his wife.</head>
+               <l>Here <hi>Foelix</hi> and his wife <hi>Drusilla</hi> saith,</l>
+               <l>They'l heare St. <hi>Paul</hi> concerning Christ and faith.</l>
+               <l>And as he reason'd, justice to advance,</l>
+               <l>Speaking of righteousnesse and temperance.</l>
+               <l>
+                  <hi>Faelix</hi> doth tremble, and straightway thereupon,</l>
+               <l>He did dismisse and bids him to be gone.</l>
+               <bibl>Acts 24. 24, 25. 26.</bibl>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Saint</hi> Iohns exhortation, to an honourable Matron.</head>
+               <l>Lastly an honourable Lady here,</l>
+               <l>St. <hi>Iohn</hi> exhorteth for to persevere</l>
+               <l>In holy Christian duties, that it may be,</l>
+               <l>A meanes to bring her to Eternity.</l>
+               <l>And I doe hope the time ere long will come,</l>
+               <l>You'l meete her where shee is, in sweete <hi>Elizium.</hi>
+               </l>
+               <bibl>2 Iohn 1. 1, 2, 3, &amp;c.</bibl>
+            </div>
+            <div type="poem">
+               <head>Foemina multiplici splendet speciosa paratu. Quae mala, sit tua sors: quae bona, grata mihi.</head>
+               <l>Here is a sort of women ready drest,</l>
+               <l>Pray leave the worst, and take your selfe the best.</l>
+               <pb facs="tcp:60671:25"/>
+               <l> LAdy, your patience, yet I have not done,</l>
+               <l>There is another streame desires to run</l>
+               <l>Into your favour, onely to let you see</l>
+               <l>A female crown'd with magnanimitie.</l>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Please you at your best leisure to read the</hi> third and fourth Chapters of the first booke of <hi>Esdras,</hi> you will finde as followeth.</head>
+               <l>NOw when <hi>Darius</hi> had his wish obtain'd</l>
+               <l>And that successively a King he reign'd:</l>
+               <l>He made a mighty great, and stately feast,</l>
+               <l>For many a noble, and most Princely guest,</l>
+               <l>And as my story doth affirme it true,</l>
+               <l>He feasted royally his houshold too:</l>
+               <l>Now when they all had eate, and drunke their fill,</l>
+               <l>And each one pleas'd his appetite and will,</l>
+               <l>Homewards they went, and then without molest,</l>
+               <l>
+                  <hi>Darius</hi> goes to take his Kingly rest:</l>
+               <l>Now whilst that he all pleasure doth forsake,</l>
+               <l>Three young men of the Guard doe undertake</l>
+               <l>To write some solid sentance, one that might</l>
+               <l>Restore his excellence some more delight:</l>
+               <l>And <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> sentence shall <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>The King shall give both gifts, and <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <pb n="29" facs="tcp:60671:25"/>
+               <l> As for to be inveloped, and roll'd</l>
+               <l>In purest Purple, and to drinke in gold;</l>
+               <l>To ride on Chariots, and in state to sit</l>
+               <l>Next to the King, by reason of his wit.</l>
+               <l>The first he wrote the other for to quell,</l>
+               <l>That Wine for strength and power doth excell:</l>
+               <l>And then the next to him did after write,</l>
+               <l>That the Kings Majesty was most of might,</l>
+               <l>And then the last, not least, came thirdly in,</l>
+               <l>Declaring what he had wrote concerning women:</l>
+               <l>And he, as God his <hi>Genius</hi> did enable.</l>
+               <l>Spoke of the truth; his name was <hi>Zorobabel;</hi>
+               </l>
+               <l>Saying, O men, it is not the great King;</l>
+               <l>Nor multitude of men doth comfort bring:</l>
+               <l>Who is it then that rules and governes them,</l>
+               <l>And hath the Lordship ore them: is't not women?</l>
+               <l>Women have borne the King by Gods command,</l>
+               <l>And all that beareth rule by sea or land.</l>
+               <l>Even of them they came; and they did nourish</l>
+               <l>Them that did plant, and cause the Vineyard flourish.</l>
+               <l>Tis they that make us garments, and apply it,</l>
+               <l>To bring men honour, though some men deny it;</l>
+               <l>And seriously considered, you will finde,</l>
+               <l>There's no subsisting without women kinde.</l>
+               <l>And if so be man be so happy sped,</l>
+               <l>That he hath gold or silver gathered,</l>
+               <l>Doth he not in a manner blesse his fate,</l>
+               <l>That he may bring it to the woman strait:</l>
+               <l>And doth not he still bend his utmost care</l>
+               <l>To love a woman that is sweet and faire?</l>
+               <pb n="82" facs="tcp:60671:26"/>
+               <l> But letting all these things goe by and slip,</l>
+               <l>Doth he not gaze upon her cherrie lip?</l>
+               <l>And even with open mouth fixe both his eyes</l>
+               <l>On her Angelicall and sweet Effigies;</l>
+               <l>And have not most men more desire unto her,</l>
+               <l>Than umto delicates to gold, or silver.</l>
+               <l>A man forsakes his father that begot him,</l>
+               <l>Bandons his Country that in nurture taught him,</l>
+               <l>And thinks he lives a most despised life,</l>
+               <l>Till he combine and cleave unto his wife:</l>
+               <l>Nay more than this, he sticks not for to make</l>
+               <l>Himselfe a Martyr, meerely for her sake.</l>
+               <l>He'll spend his life, reject his friend and brother,</l>
+               <l>And quite so get his father, and his mother</l>
+               <l>By this you needs must know, and grant it true,</l>
+               <l>That women have Dominion over you.</l>
+               <l>Doe you not toyle and labour all you can,</l>
+               <l>And bring it safely home unto the woman:</l>
+               <l>Yea, a man takes his sword, and goes his way,</l>
+               <l>To rob, to steale and saile upon the Sea,</l>
+               <l>Not caring greatly on what ground hee dye on,</l>
+               <l>And for her sake dares look upon a Lion,</l>
+               <l>And going to some darke and uncouth grove,</l>
+               <l>He robs and spoyles to bring it to his love.</l>
+               <l>Yea, many men there be that have run mad,</l>
+               <l>Onely for women, hoping to have had</l>
+               <l>What his lov'd heart desired but too late</l>
+               <l>He hath lost his aime and so growne desperate:</l>
+               <l>Nay, many men hate women so prefer'd,</l>
+               <l>That for their sakes have perish'd, sin'd, and err'd.</l>
+               <pb n="41" facs="tcp:60671:26"/>
+               <l> Now doe you not believe me, that His grace</l>
+               <l>Is great in power, great in every place.</l>
+               <l>Doth not all Regions that are round about him,</l>
+               <l>Feare to offend him, cause in strength they doubt him.</l>
+               <l>And yet for all that he is honoured thus,</l>
+               <l>The daughter of the noble <hi>Bartacus.</hi>
+               </l>
+               <l>The Kings chiefe Concubine doth sit you see</l>
+               <l>At his right hand, and who but <hi>Apame,</hi>
+               </l>
+               <l>And taking from his Kinglyhood his Crowne,</l>
+               <l>She confidently sets it on her owne:</l>
+               <l>And then to shew she hath him at command,</l>
+               <l>She smiles upon him, strokes him with her hand:</l>
+               <l>And yet for all this, he doth nought but gaze</l>
+               <l>Upon her still, and still doth praise</l>
+               <l>Her beauty beyond thought: and if that she</l>
+               <l>I aught upon him, even so the like did he:</l>
+               <l>And if she took at him any displeasure,</l>
+               <l>Why strait he'd flatter her above all measure,</l>
+               <l>And still her radiant beauty so commends,</l>
+               <l>Till they are reconcil'd, and perfect friends.</l>
+               <l>The O ye men, how can it be but true,</l>
+               <l>Women are strong, when this, all this they doe.</l>
+               <l>And like a matchlesse and unparallel'd youth,</l>
+               <l>When he had done with women, spake of truth;</l>
+               <l>Both which he did expresse so rare and well,</l>
+               <l>He was thought worthy of a Chronicle:</l>
+               <l>And I shall invocate my best of prayer,</l>
+               <l>That truth and women still may goe together.</l>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="envoy">
+            <pb facs="tcp:60671:27"/>
+            <opener>
+               <salute>Madam,</salute>
+            </opener>
+            <l>YOU have seen a period of my Book:</l>
+            <l>Now may be that your gracious eye did look</l>
+            <l>To have seene some rarer object; one that might</l>
+            <l>Have given your candid wit a more delight:</l>
+            <l>For I confesse ingenuously indeed,</l>
+            <l>Many more learned books you often read,</l>
+            <l>And <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hope that there is something in't</l>
+            <l>Deserves your love as well as doth the print.</l>
+            <l>And having that my mind shall ne're aspire</l>
+            <l>Not to a thought that reaches any higher.</l>
+            <l>And now the God of Gods, and King of Kings,</l>
+            <l>T<gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>es where Cherubims and Angels sings,</l>
+            <l>E<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> protect and grant you your request,</l>
+            <l>
+               <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you may sing with joy amongst the rest.</l>
+            <l>So as in duty bound shall ever pray,</l>
+            <closer>
+               <signed>Your humblest devoted<lb/> Servant:<lb/>
+                  <hi>E. F.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
